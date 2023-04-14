@@ -2,8 +2,8 @@
 
 
 #### input image:
-![Alt text1](/data/test2.pnng "input image")
+![Alt text1](D:/Courses/Computer_vision_engineer/Text_detection/data/test2.png)
 
 
 #### output image:
-![Alt text2](/images/test2.png "output image")
+![Alt text2](D:/Courses/Computer_vision_engineer/Text_detection/images/test2.png)
