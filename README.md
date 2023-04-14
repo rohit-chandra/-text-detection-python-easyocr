@@ -6,4 +6,4 @@
 
 After applying EasyOCR we get the following result
 #### output image:
-![Alt text2](/images/test2.png)
+![](/images/test2.png)
